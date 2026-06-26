@@ -10,3 +10,6 @@ A responsive Web3-style landing page for the EVEDEX referral code `mario`.
 ## Deploy
 
 Upload this repository to GitHub and connect it to Cloudflare Pages or Vercel.
+
+
+Live URL: https://evedex-invite-code-guide.pages.dev/
